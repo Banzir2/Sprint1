@@ -17,5 +17,5 @@ Then, we isolate the red in the image, and after using a convolution to blur the
 It's also important to mention the image is cropped to the plausible places the laser could be.
 
 ### Conversion to distance
-Using complex trigonometry that only TheHaK can understand, because he learned it from Buddhist monks in Nepal.\
-He told me that they hit him with sticks until he got their questions right.
+Using complex trigonometry that only TheHaK can understand.\
+He learned it from Buddhist monks in Nepal, whose trigonometry knowledge was passed down by the Buddha through the generations. As per their tradition, they taught TheHaK by beating him with sticks until he got the questions right.
