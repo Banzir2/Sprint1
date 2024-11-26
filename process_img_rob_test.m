@@ -19,7 +19,6 @@ img = getdata(x);
 % truncate - take a 20:60 sample containing the two points
 %M = truncateimg(img);
 %M0 = img;
-import 
 
 while 1==1
     trigger(x);
